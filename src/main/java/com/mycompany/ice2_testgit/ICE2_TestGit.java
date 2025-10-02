@@ -11,6 +11,6 @@ package com.mycompany.ice2_testgit;
 public class ICE2_TestGit {
 
     public static void main(String[] args) {
-        System.out.println("rev 1 local");
+        System.out.println("rev 2 local");
     }
 }
